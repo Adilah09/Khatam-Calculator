@@ -13,4 +13,8 @@
 
 html {
     scroll-behavior: smooth;
-  }
+}
+
+#paragraph{
+    font-size: 20px;
+}
