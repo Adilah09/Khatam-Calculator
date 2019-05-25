@@ -10,3 +10,7 @@
 #main-section{
     background-color: #e3f2fd;
 }
+
+html {
+    scroll-behavior: smooth;
+  }
